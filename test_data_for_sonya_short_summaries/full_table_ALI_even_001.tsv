@@ -1,0 +1,767 @@
+# BUSCO version is: 5.1.2 
+# The lineage dataset is:  (Creation date: 2021-06-28, number of genomes: 549, number of BUSCOs: 758)
+# Busco id	Status	Sequence	Gene Start	Gene End	Strand	Score	Length	OrthoDB url	Description
+494at4751	Complete	NODE_111_length_11917_cov_692.691488	5487	10853	+	1495.9	1562	https://www.orthodb.org/v10?query=494at4751	Midasin
+771at4751	Fragmented	NODE_3_length_72187_cov_129.046943	41895	45740	+	192.5	832	https://www.orthodb.org/v10?query=771at4751	PIK-related kinase
+1866at4751	Missing
+3534at4751	Missing
+4409at4751	Missing
+4466at4751	Fragmented	NODE_110_length_12189_cov_220.154673	10767	11921	-	78.9	258	https://www.orthodb.org/v10?query=4466at4751	Ribosomal protein L19
+4523at4751	Missing
+5995at4751	Missing
+6186at4751	Fragmented	NODE_38_length_33184_cov_584.628563	27951	28556	-	92.6	154	https://www.orthodb.org/v10?query=6186at4751	Armadillo-type fold
+6272at4751	Missing
+6377at4751	Missing
+6592at4751	Missing
+6812at4751	Complete	NODE_2_length_73722_cov_356.948562	49180	54624	+	1267.0	1362	https://www.orthodb.org/v10?query=6812at4751	DNA polymerase epsilon catalytic subunit
+7423at4751	Complete	NODE_1_length_74237_cov_130.044552	14560	18906	-	279.8	883	https://www.orthodb.org/v10?query=7423at4751	CCR4-NOT transcription complex subunit 1, CAF1-binding domain
+7545at4751	Fragmented	NODE_86_length_14984_cov_962.025395	6844	8379	+	173.9	380	https://www.orthodb.org/v10?query=7545at4751	Anaphase-promoting complex subunit 1
+8406at4751	Fragmented	NODE_9_length_58000_cov_405.726343	51505	53370	-	156.7	434	https://www.orthodb.org/v10?query=8406at4751	Transcription initiation factor TFIID subunit 2
+8818at4751	Complete	NODE_11_length_56485_cov_125.394672	6785	11581	-	536.0	1200	https://www.orthodb.org/v10?query=8818at4751	Clathrin heavy chain
+10168at4751	Missing
+10531at4751	Missing
+11140at4751	Missing
+11636at4751	Missing
+11879at4751	Missing
+12258at4751	Missing
+12812at4751	Complete	NODE_53_length_27424_cov_140.313083	19470	22913	-	138.1	379	https://www.orthodb.org/v10?query=12812at4751	WD40/YVTN repeat-like-containing domain superfamily
+12959at4751	Missing
+13224at4751	Complete	NODE_23_length_45054_cov_95.755556	13881	17096	+	228.8	672	https://www.orthodb.org/v10?query=13224at4751	Nucleoporin, Nup133/Nup155-like, N-terminal
+13605at4751	Missing
+14295at4751	Missing
+14441at4751	Missing
+14523at4751	Complete	NODE_27_length_42530_cov_103.995664	13597	16665	+	874.7	880	https://www.orthodb.org/v10?query=14523at4751	Exportin-1
+14793at4751	Complete	NODE_18_length_50364_cov_517.589918	10369	12924	+	141.9	680	https://www.orthodb.org/v10?query=14793at4751	Nucleoporin Pom152
+14986at4751	Missing
+17174at4751	Missing
+18809at4751	Missing
+20600at4751	Missing
+20952at4751	Missing
+21651at4751	Complete	NODE_39_length_32326_cov_779.583920	15866	19153	+	832.5	657	https://www.orthodb.org/v10?query=21651at4751	DNA topoisomerase 2
+21689at4751	Missing
+22982at4751	Complete	NODE_7_length_63559_cov_185.536464	43614	46547	-	948.0	827	https://www.orthodb.org/v10?query=22982at4751	isoleucine-tRNA ligase
+22992at4751	Missing
+23198at4751	Missing
+23856at4751	Fragmented	NODE_9_length_58000_cov_405.726343	15849	18131	-	206.1	570	https://www.orthodb.org/v10?query=23856at4751	Transcription elongation factor Spt6
+24198at4751	Fragmented	NODE_10_length_57263_cov_727.702330	46087	48174	-	241.9	542	https://www.orthodb.org/v10?query=24198at4751	Armadillo-type fold
+25020at4751	Complete	NODE_25_length_42890_cov_122.114759	9289	12204	-	289.9	685	https://www.orthodb.org/v10?query=25020at4751	Condensin complex subunit 1
+25161at4751	Missing
+26329at4751	Complete	NODE_2_length_73722_cov_356.948562	36799	40068	+	982.8	931	https://www.orthodb.org/v10?query=26329at4751	DNA-directed RNA polymerase, subunit 2, hybrid-binding domain
+27008at4751	Missing
+29512at4751	Missing
+31256at4751	Missing
+31324at4751	Missing
+32164at4751	Complete	NODE_1_length_74237_cov_130.044552	49544	51916	+	269.9	638	https://www.orthodb.org/v10?query=32164at4751	Importin beta-1 subunit
+33984at4751	Missing
+34223at4751	Missing
+34706at4751	Missing
+34830at4751	Complete	NODE_72_length_18011_cov_176.193613	13968	17480	+	311.8	828	https://www.orthodb.org/v10?query=34830at4751	Elongator complex protein 1
+36610at4751	Complete	NODE_70_length_19139_cov_136.409926	15092	17158	+	173.3	453	https://www.orthodb.org/v10?query=36610at4751	Tubulin-specific chaperone D
+37028at4751	Missing
+37573at4751	Complete	NODE_6_length_63702_cov_622.637245	55813	57723	-	708.8	497	https://www.orthodb.org/v10?query=37573at4751	Helicase, C-terminal
+37642at4751	Missing
+38031at4751	Missing
+38184at4751	Missing
+39833at4751	Missing
+43842at4751	Missing
+46090at4751	Missing
+46098at4751	Duplicated	NODE_14_length_51621_cov_451.283452	10426	12885	+	474.9	683	https://www.orthodb.org/v10?query=46098at4751	P-loop containing nucleoside triphosphate hydrolase protein
+46098at4751	Duplicated	NODE_2_length_73722_cov_356.948562	11536	13629	-	439.7	684	https://www.orthodb.org/v10?query=46098at4751	P-loop containing nucleoside triphosphate hydrolase protein
+46119at4751	Missing
+46666at4751	Missing
+46752at4751	Missing
+46918at4751	Fragmented	NODE_15_length_50996_cov_134.324459	19054	20454	+	136.6	338	https://www.orthodb.org/v10?query=46918at4751	Tetratricopeptide repeat
+47592at4751	Missing
+48708at4751	Missing
+49476at4751	Missing
+49967at4751	Missing
+50786at4751	Missing
+50835at4751	Complete	NODE_15_length_50996_cov_134.324459	12036	14255	-	607.3	587	https://www.orthodb.org/v10?query=50835at4751	Alanine--tRNA ligase
+52541at4751	Missing
+52909at4751	Complete	NODE_40_length_31876_cov_573.147371	4992	7505	+	461.5	613	https://www.orthodb.org/v10?query=52909at4751	26S proteasome regulatory subunit RPN1
+53270at4751	Missing
+54252at4751	Missing
+54919at4751	Complete	NODE_48_length_29450_cov_75.726244	15350	17140	-	350.2	338	https://www.orthodb.org/v10?query=54919at4751	Cysteinyl-tRNA synthetase
+56395at4751	Missing
+56432at4751	Missing
+56729at4751	Missing
+57081at4751	Missing
+58127at4751	Missing
+59795at4751	Fragmented	NODE_9_length_58000_cov_405.726343	22103	24550	+	193.3	492	https://www.orthodb.org/v10?query=59795at4751	Coatomer subunit gamma
+61411at4751	Missing
+61438at4751	Missing
+61857at4751	Missing
+62846at4751	Missing
+63635at4751	Missing
+63838at4751	Missing
+64002at4751	Fragmented	NODE_87_length_14945_cov_858.152095	1373	3121	+	198.1	425	https://www.orthodb.org/v10?query=64002at4751	Transcription initiation factor TFIID subunit 1
+64498at4751	Complete	NODE_22_length_46351_cov_443.542722	33179	35197	-	713.8	520	https://www.orthodb.org/v10?query=64498at4751	glucosamine-fructose-6-phosphate aminotransferase
+65334at4751	Missing
+65499at4751	Missing
+66151at4751	Missing
+67284at4751	Missing
+67399at4751	Missing
+67806at4751	Complete	NODE_3_length_72187_cov_129.046943	57239	59044	-	99.3	397	https://www.orthodb.org/v10?query=67806at4751	actin-like ATPase domain-containing protein
+68466at4751	Missing
+68881at4751	Missing
+71039at4751	Complete	NODE_100_length_13220_cov_657.180931	4656	7175	+	705.5	696	https://www.orthodb.org/v10?query=71039at4751	RNA cytidine acetyltransferase
+71046at4751	Missing
+73383at4751	Missing
+73477at4751	Missing
+73771at4751	Missing
+75033at4751	Missing
+75456at4751	Missing
+75463at4751	Missing
+75709at4751	Missing
+75976at4751	Missing
+76196at4751	Missing
+76893at4751	Missing
+76975at4751	Missing
+78289at4751	Complete	NODE_6_length_63702_cov_622.637245	4408	5928	-	436.0	430	https://www.orthodb.org/v10?query=78289at4751	Fimbrin
+78665at4751	Missing
+79262at4751	Missing
+79294at4751	Missing
+79797at4751	Missing
+79988at4751	Missing
+81295at4751	Complete	NODE_29_length_41366_cov_529.428963	25352	27193	+	670.8	440	https://www.orthodb.org/v10?query=81295at4751	ATPase, F1/V1/A1 complex, alpha/beta subunit, N-terminal domain
+81614at4751	Missing
+81687at4751	Missing
+84250at4751	Missing
+84829at4751	Missing
+85793at4751	Fragmented	NODE_371_length_3107_cov_401.959774	146	2140	+	165.1	312	https://www.orthodb.org/v10?query=85793at4751	cohesin complex subunit SA-1/2
+86293at4751	Missing
+87251at4751	Missing
+87313at4751	Complete	NODE_310_length_3630_cov_729.500991	959	2554	-	747.9	440	https://www.orthodb.org/v10?query=87313at4751	Elongator complex protein 3
+90022at4751	Missing
+91135at4751	Missing
+92267at4751	Complete	NODE_126_length_10354_cov_770.402204	8104	9804	-	496.6	505	https://www.orthodb.org/v10?query=92267at4751	Phenylalanyl-tRNA synthetase
+93783at4751	Missing
+94384at4751	Complete	NODE_62_length_21344_cov_583.563427	13283	15367	+	351.9	443	https://www.orthodb.org/v10?query=94384at4751	DNA topoisomerase
+94628at4751	Missing
+95253at4751	Missing
+96633at4751	Missing
+97141at4751	Missing
+98519at4751	Missing
+98733at4751	Complete	NODE_2_length_73722_cov_356.948562	23959	25914	+	739.3	533	https://www.orthodb.org/v10?query=98733at4751	threonyl-tRNA synthetase
+98739at4751	Missing
+100957at4751	Missing
+101133at4751	Missing
+103183at4751	Missing
+103461at4751	Missing
+103836at4751	Complete	NODE_28_length_41621_cov_420.255431	7299	8534	-	250.4	346	https://www.orthodb.org/v10?query=103836at4751	WD40-repeat-containing domain
+104173at4751	Missing
+104415at4751	Missing
+105401at4751	Missing
+106281at4751	Missing
+107136at4751	Missing
+107464at4751	Complete	NODE_35_length_34939_cov_691.962887	6111	7775	+	463.6	407	https://www.orthodb.org/v10?query=107464at4751	Glucose-6-phosphate isomerase
+109276at4751	Missing
+111022at4751	Missing
+111189at4751	Missing
+112646at4751	Missing
+112937at4751	Missing
+115993at4751	Missing
+117017at4751	Complete	NODE_30_length_40787_cov_140.663070	35612	37309	+	538.9	446	https://www.orthodb.org/v10?query=117017at4751	Methionyl-tRNA synthetase
+118189at4751	Missing
+118701at4751	Fragmented	NODE_27_length_42530_cov_103.995664	31184	32503	-	177.0	391	https://www.orthodb.org/v10?query=118701at4751	Phosphatidylinositol 3-kinase VPS34
+119833at4751	Fragmented	NODE_270_length_4293_cov_994.935876	2203	2819	-	159.8	174	https://www.orthodb.org/v10?query=119833at4751	Histone-lysine N-methyltransferase
+122507at4751	Missing
+122824at4751	Missing
+123228at4751	Missing
+123277at4751	Missing
+123494at4751	Missing
+125400at4751	Missing
+125935at4751	Missing
+126037at4751	Missing
+126249at4751	Missing
+126256at4751	Missing
+126519at4751	Fragmented	NODE_450_length_2597_cov_0.886309	7	876	+	215.9	307	https://www.orthodb.org/v10?query=126519at4751	Imidazole glycerol phosphate synthase hisHF
+127140at4751	Missing
+129160at4751	Missing
+129326at4751	Missing
+129520at4751	Missing
+130062at4751	Missing
+130930at4751	Missing
+130976at4751	Complete	NODE_32_length_40070_cov_101.857021	35090	36094	+	117.5	301	https://www.orthodb.org/v10?query=130976at4751	DNA polymerase alpha subunit B
+133954at4751	Missing
+135184at4751	Missing
+135652at4751	Complete	NODE_115_length_11087_cov_164.406534	1442	2947	-	426.7	384	https://www.orthodb.org/v10?query=135652at4751	Poly(A) polymerase
+137963at4751	Complete	NODE_34_length_35553_cov_115.489705	6470	7990	+	610.9	428	https://www.orthodb.org/v10?query=137963at4751	Prolyl-tRNA synthetase
+138484at4751	Fragmented	NODE_1_length_74237_cov_130.044552	20594	22057	+	32.9	259	https://www.orthodb.org/v10?query=138484at4751	DNA polymerase epsilon subunit
+138695at4751	Complete	NODE_35_length_34939_cov_691.962887	20989	22839	+	595.7	460	https://www.orthodb.org/v10?query=138695at4751	Nucleolar GTP-binding protein 1
+138697at4751	Missing
+138833at4751	Missing
+141273at4751	Missing
+142357at4751	Missing
+142965at4751	Missing
+143414at4751	Missing
+145178at4751	Fragmented	NODE_63_length_21233_cov_1062.720606	18034	19758	-	44.0	310	https://www.orthodb.org/v10?query=145178at4751	Topoisomerase 1-associated factor 1
+145378at4751	Missing
+145524at4751	Missing
+147028at4751	Missing
+148293at4751	Missing
+150469at4751	Complete	NODE_17_length_50782_cov_491.374169	45802	47361	-	414.2	367	https://www.orthodb.org/v10?query=150469at4751	T-complex protein 1 subunit beta
+153083at4751	Missing
+154126at4751	Missing
+156073at4751	Missing
+160044at4751	Missing
+160875at4751	Missing
+160940at4751	Missing
+160995at4751	Complete	NODE_21_length_46369_cov_119.244970	6579	7946	-	565.9	379	https://www.orthodb.org/v10?query=160995at4751	Eukaryotic translation initiation factor 2 subunit gamma
+161113at4751	Missing
+163318at4751	Missing
+165243at4751	Fragmented	NODE_32_length_40070_cov_101.857021	39192	39929	+	55.3	164	https://www.orthodb.org/v10?query=165243at4751	General transcription and DNA repair factor IIH
+167290at4751	Missing
+167374at4751	Missing
+167498at4751	Missing
+168092at4751	Missing
+168489at4751	Complete	NODE_50_length_28044_cov_141.165647	20245	22110	-	376.8	467	https://www.orthodb.org/v10?query=168489at4751	Vacuolar import/degradation, Vid27-related
+169381at4751	Missing
+170297at4751	Missing
+170401at4751	Fragmented	NODE_18_length_50364_cov_517.589918	39788	40294	-	31.5	101	https://www.orthodb.org/v10?query=170401at4751	Zinc finger, RING/FYVE/PHD-type
+170904at4751	Complete	NODE_50_length_28044_cov_141.165647	13297	16347	-	427.5	954	https://www.orthodb.org/v10?query=170904at4751	P-loop containing nucleoside triphosphate hydrolase protein
+171181at4751	Missing
+171238at4751	Missing
+172113at4751	Complete	NODE_25_length_42890_cov_122.114759	7736	8938	+	424.0	296	https://www.orthodb.org/v10?query=172113at4751	Eukaryotic peptide chain release factor subunit 1
+172363at4751	Missing
+172966at4751	Complete	NODE_123_length_10493_cov_689.425342	7899	9458	-	338.1	359	https://www.orthodb.org/v10?query=172966at4751	polyubiquitin-tagged protein recognition complex, Npl4 component
+173428at4751	Missing
+173995at4751	Missing
+174653at4751	Missing
+174672at4751	Missing
+175136at4751	Missing
+175599at4751	Missing
+176178at4751	Fragmented	NODE_123_length_10493_cov_689.425342	9630	10406	+	160.0	177	https://www.orthodb.org/v10?query=176178at4751	putative 26S proteasome regulatory subunit rpn6
+176478at4751	Missing
+176648at4751	Missing
+176748at4751	Missing
+179025at4751	Missing
+179437at4751	Missing
+179897at4751	Missing
+181890at4751	Missing
+181959at4751	Missing
+183720at4751	Missing
+183801at4751	Complete	NODE_2502_length_672_cov_1899.298429	42	647	+	80.1	118	https://www.orthodb.org/v10?query=183801at4751	DNA-directed RNA polymerase III subunit RPC6
+183849at4751	Fragmented	NODE_35_length_34939_cov_691.962887	17616	19430	-	216.5	341	https://www.orthodb.org/v10?query=183849at4751	Oligosaccharyl transferase STT3 subunit
+184718at4751	Missing
+184762at4751	Missing
+185196at4751	Missing
+185399at4751	Complete	NODE_2_length_73722_cov_356.948562	16356	17171	+	182.6	255	https://www.orthodb.org/v10?query=185399at4751	UDP-N-acetylglucosamine-dolichyl-phosphate N-acetylglucosaminephosphotransferase
+186138at4751	Complete	NODE_3_length_72187_cov_129.046943	46067	47104	-	256.7	240	https://www.orthodb.org/v10?query=186138at4751	DNA primase
+186574at4751	Missing
+186701at4751	Missing
+187821at4751	Missing
+188070at4751	Complete	NODE_7_length_63559_cov_185.536464	55459	56613	+	486.8	313	https://www.orthodb.org/v10?query=188070at4751	ATPase, AAA-type, conserved site
+189234at4751	Missing
+189573at4751	Complete	NODE_38_length_33184_cov_584.628563	29259	30644	+	140.2	280	https://www.orthodb.org/v10?query=189573at4751	Coatomer subunit delta
+190183at4751	Missing
+190475at4751	Missing
+190832at4751	Missing
+191114at4751	Complete	NODE_49_length_28485_cov_953.796660	7082	8419	+	354.8	284	https://www.orthodb.org/v10?query=191114at4751	Phenylalanyl-tRNA synthetase alpha chain
+191296at4751	Missing
+191310at4751	Missing
+192059at4751	Missing
+192135at4751	Missing
+192452at4751	Missing
+195619at4751	Missing
+195863at4751	Missing
+196015at4751	Complete	NODE_35_length_34939_cov_691.962887	33769	34833	+	542.1	327	https://www.orthodb.org/v10?query=196015at4751	putative rRNA pseudouridine synthase
+196094at4751	Missing
+196841at4751	Missing
+197111at4751	Complete	NODE_31_length_40127_cov_458.832692	27041	28228	-	462.7	314	https://www.orthodb.org/v10?query=197111at4751	Cysteine desulfurase
+197612at4751	Missing
+198196at4751	Missing
+198234at4751	Missing
+200331at4751	Missing
+201591at4751	Missing
+202089at4751	Fragmented	NODE_57_length_24547_cov_805.601931	11886	12797	+	75.2	168	https://www.orthodb.org/v10?query=202089at4751	Mitochondrial import receptor subunit TOM40
+202248at4751	Missing
+203109at4751	Fragmented	NODE_1161_length_1190_cov_2010.851512	309	1187	-	22.1	138	https://www.orthodb.org/v10?query=203109at4751	Protein DOM34 homolog
+203710at4751	Missing
+204087at4751	Missing
+204341at4751	Fragmented	NODE_48_length_29450_cov_75.726244	14599	15072	-	167.3	164	https://www.orthodb.org/v10?query=204341at4751	Condensin complex subunit 2
+204508at4751	Missing
+205479at4751	Missing
+207926at4751	Missing
+208463at4751	Missing
+209053at4751	Complete	NODE_9_length_58000_cov_405.726343	27803	29110	+	358.6	287	https://www.orthodb.org/v10?query=209053at4751	serine-tRNA ligase
+209619at4751	Complete	NODE_66_length_20785_cov_509.333221	10674	11804	+	220.1	237	https://www.orthodb.org/v10?query=209619at4751	Threonylcarbamoyl-AMP synthase
+210178at4751	Missing
+210462at4751	Complete	NODE_59_length_23316_cov_447.398501	1138	2325	+	83.2	324	https://www.orthodb.org/v10?query=210462at4751	Kinetochore protein nuf2
+210986at4751	Complete	NODE_19_length_50161_cov_285.756182	14613	15863	-	143.2	275	https://www.orthodb.org/v10?query=210986at4751	FACT complex subunit POB3
+211442at4751	Complete	NODE_2_length_73722_cov_356.948562	67557	68543	+	106.0	198	https://www.orthodb.org/v10?query=211442at4751	endoplasmic oxidoreductin
+211634at4751	Missing
+211768at4751	Complete	NODE_49_length_28485_cov_953.796660	2885	4183	+	219.3	286	https://www.orthodb.org/v10?query=211768at4751	60S ribosomal export protein NMD3
+212522at4751	Complete	NODE_423_length_2731_cov_244.791793	0	1217	+	249.8	263	https://www.orthodb.org/v10?query=212522at4751	Cyclin-like
+212735at4751	Complete	NODE_57_length_24547_cov_805.601931	19271	20494	-	265.8	309	https://www.orthodb.org/v10?query=212735at4751	zf-ZPR1-domain-containing protein
+213564at4751	Missing
+215926at4751	Missing
+216270at4751	Complete	NODE_16_length_50840_cov_319.545358	24640	25914	-	260.5	316	https://www.orthodb.org/v10?query=216270at4751	Rab GDP dissociation inhibitor
+216661at4751	Missing
+216683at4751	Missing
+216747at4751	Complete	NODE_29_length_41366_cov_529.428963	32920	34047	+	248.4	290	https://www.orthodb.org/v10?query=216747at4751	Transcription initiation factor TFIID subunit 6
+216949at4751	Missing
+217097at4751	Missing
+217374at4751	Missing
+219236at4751	Missing
+219492at4751	Missing
+221926at4751	Missing
+224693at4751	Missing
+224775at4751	Missing
+224804at4751	Missing
+225321at4751	Complete	NODE_9_length_58000_cov_405.726343	8	1171	+	383.6	378	https://www.orthodb.org/v10?query=225321at4751	Actin family
+225351at4751	Missing
+225535at4751	Complete	NODE_77_length_16770_cov_195.245936	6536	7636	-	160.3	301	https://www.orthodb.org/v10?query=225535at4751	Transcriptional adapter 2
+225712at4751	Missing
+225820at4751	Missing
+225918at4751	Missing
+226810at4751	Complete	NODE_10_length_57263_cov_727.702330	13890	14654	+	154.8	195	https://www.orthodb.org/v10?query=226810at4751	Bystin
+227572at4751	Missing
+228465at4751	Missing
+228752at4751	Missing
+229510at4751	Complete	NODE_29_length_41366_cov_529.428963	31773	32864	-	268.5	270	https://www.orthodb.org/v10?query=229510at4751	tRNA (guanine(37)-N1)-methyltransferase
+229997at4751	Missing
+230605at4751	Complete	NODE_28_length_41621_cov_420.255431	15328	16869	-	168.6	381	https://www.orthodb.org/v10?query=230605at4751	Ndc80 domain superfamily
+231468at4751	Missing
+231582at4751	Missing
+232698at4751	Missing
+233287at4751	Missing
+233706at4751	Missing
+234548at4751	Missing
+234698at4751	Missing
+235105at4751	Missing
+235463at4751	Missing
+235640at4751	Fragmented	NODE_62_length_21344_cov_583.563427	15393	16625	-	94.5	253	https://www.orthodb.org/v10?query=235640at4751	26S proteasome non-ATPase regulatory subunit 12
+236504at4751	Complete	NODE_35_length_34939_cov_691.962887	28508	29779	-	339.6	378	https://www.orthodb.org/v10?query=236504at4751	Protein phosphatase PP2A regulatory subunit B
+237276at4751	Fragmented	NODE_52_length_27449_cov_590.794998	9680	10657	+	121.6	235	https://www.orthodb.org/v10?query=237276at4751	Glucose-6-phosphate 1-dehydrogenase
+237281at4751	Missing
+237393at4751	Missing
+237533at4751	Missing
+238922at4751	Missing
+240036at4751	Complete	NODE_38_length_33184_cov_584.628563	17080	18306	-	219.5	404	https://www.orthodb.org/v10?query=240036at4751	Pescadillo homolog
+240246at4751	Missing
+241079at4751	Missing
+241483at4751	Missing
+241586at4751	Missing
+241860at4751	Missing
+243015at4751	Missing
+244066at4751	Fragmented	NODE_2220_length_734_cov_0.859843	1	549	+	126.1	128	https://www.orthodb.org/v10?query=244066at4751	Gamma-glutamyl phosphate reductase
+245480at4751	Complete	NODE_87_length_14945_cov_858.152095	9388	10674	-	246.0	349	https://www.orthodb.org/v10?query=245480at4751	Replication protein A subunit
+245900at4751	Complete	NODE_228_length_5220_cov_770.427065	809	2038	-	255.6	301	https://www.orthodb.org/v10?query=245900at4751	Phosphoglycerate kinase
+246207at4751	Missing
+246951at4751	Missing
+247065at4751	Missing
+247129at4751	Complete	NODE_18_length_50364_cov_517.589918	14478	15725	+	222.8	263	https://www.orthodb.org/v10?query=247129at4751	kinase-like protein
+247383at4751	Fragmented	NODE_5_length_64654_cov_216.929440	22034	22741	+	21.2	77	https://www.orthodb.org/v10?query=247383at4751	Elongator complex protein 4
+248360at4751	Fragmented	NODE_17_length_50782_cov_491.374169	3972	4769	-	245.1	223	https://www.orthodb.org/v10?query=248360at4751	3'-5' exonuclease activity
+251158at4751	Complete	NODE_9_length_58000_cov_405.726343	19697	20686	-	416.3	267	https://www.orthodb.org/v10?query=251158at4751	tRNA N6-adenosine threonylcarbamoyltransferase
+251613at4751	Missing
+252314at4751	Missing
+252469at4751	Missing
+254717at4751	Complete	NODE_37_length_34291_cov_387.784950	5468	6376	+	264.0	229	https://www.orthodb.org/v10?query=254717at4751	ATPase GET3
+255378at4751	Missing
+255412at4751	Missing
+256318at4751	Missing
+256914at4751	Missing
+257330at4751	Missing
+258245at4751	Complete	NODE_402_length_2840_cov_1445.722364	1342	2508	-	460.5	348	https://www.orthodb.org/v10?query=258245at4751	tryptophanyl-tRNA synthetase
+258762at4751	Missing
+259060at4751	Missing
+259444at4751	Missing
+259700at4751	Complete	NODE_29_length_41366_cov_529.428963	8735	9700	+	72.7	204	https://www.orthodb.org/v10?query=259700at4751	RNA 3'-terminal phosphate cyclase
+259883at4751	Complete	NODE_5_length_64654_cov_216.929440	60417	61022	+	47.8	98	https://www.orthodb.org/v10?query=259883at4751	Zinc finger, CCCH-type
+260251at4751	Fragmented	NODE_3701_length_518_cov_0.976134	0	479	-	66.9	119	https://www.orthodb.org/v10?query=260251at4751	ATP phosphoribosyltransferase
+260722at4751	Complete	NODE_68_length_20017_cov_151.581484	12693	13691	+	308.3	215	https://www.orthodb.org/v10?query=260722at4751	Deoxyhypusine synthase
+260896at4751	Missing
+261237at4751	Missing
+262317at4751	Missing
+263390at4751	Missing
+264038at4751	Missing
+264164at4751	Missing
+265302at4751	Missing
+265325at4751	Missing
+266634at4751	Missing
+267556at4751	Missing
+269389at4751	Missing
+269580at4751	Missing
+269939at4751	Missing
+271511at4751	Complete	NODE_262_length_4479_cov_236.154110	672	1898	-	124.4	221	https://www.orthodb.org/v10?query=271511at4751	25S rRNA (Cytosine-C(5))-methyltransferase rcm1
+271781at4751	Missing
+271850at4751	Complete	NODE_29_length_41366_cov_529.428963	38427	38978	-	44.4	131	https://www.orthodb.org/v10?query=271850at4751	N-acetylglucosaminyl transferase component
+272081at4751	Missing
+272711at4751	Missing
+273469at4751	Missing
+274828at4751	Missing
+276205at4751	Missing
+278643at4751	Missing
+279020at4751	Missing
+280937at4751	Missing
+281299at4751	Missing
+281726at4751	Complete	NODE_21_length_46369_cov_119.244970	4185	4925	-	214.9	162	https://www.orthodb.org/v10?query=281726at4751	Proteasome subunit beta type
+281920at4751	Missing
+282059at4751	Missing
+282964at4751	Missing
+283177at4751	Missing
+284127at4751	Missing
+284176at4751	Missing
+284287at4751	Missing
+284377at4751	Missing
+285254at4751	Missing
+285477at4751	Complete	NODE_24_length_43465_cov_214.345847	31143	31700	+	136.6	134	https://www.orthodb.org/v10?query=285477at4751	RNA polymerase II subunit A
+285977at4751	Missing
+289666at4751	Complete	NODE_38_length_33184_cov_584.628563	8725	9519	-	177.9	184	https://www.orthodb.org/v10?query=289666at4751	Diphthine synthase
+289686at4751	Missing
+290314at4751	Duplicated	NODE_180_length_6892_cov_439.468276	5247	6227	+	296.8	264	https://www.orthodb.org/v10?query=290314at4751	Ribosomal protein L4/L1e
+290314at4751	Duplicated	NODE_142_length_9251_cov_244.470717	682	1668	-	265.6	265	https://www.orthodb.org/v10?query=290314at4751	Ribosomal protein L4/L1e
+290471at4751	Missing
+291828at4751	Missing
+292336at4751	Complete	NODE_40_length_31876_cov_573.147371	10939	12024	+	239.8	299	https://www.orthodb.org/v10?query=292336at4751	Glycylpeptide N-tetradecanoyltransferase
+292418at4751	Complete	NODE_6_length_63702_cov_622.637245	49540	50979	-	503.5	414	https://www.orthodb.org/v10?query=292418at4751	Pyruvate kinase
+293405at4751	Missing
+295692at4751	Missing
+295937at4751	Missing
+296024at4751	Missing
+296643at4751	Missing
+297145at4751	Missing
+297671at4751	Missing
+298335at4751	Missing
+298379at4751	Missing
+299054at4751	Missing
+299330at4751	Missing
+299509at4751	Missing
+299559at4751	Missing
+299583at4751	Missing
+299611at4751	Missing
+300016at4751	Duplicated	NODE_68_length_20017_cov_151.581484	164	1087	-	328.0	226	https://www.orthodb.org/v10?query=300016at4751	26S proteasome non-ATPase regulatory subunit 14
+300016at4751	Duplicated	NODE_3_length_72187_cov_129.046943	6948	7871	-	325.8	229	https://www.orthodb.org/v10?query=300016at4751	26S proteasome non-ATPase regulatory subunit 14
+300216at4751	Missing
+302127at4751	Missing
+304341at4751	Missing
+304453at4751	Fragmented	NODE_91_length_14220_cov_626.849302	3602	4525	+	24.6	114	https://www.orthodb.org/v10?query=304453at4751	V-type proton ATPase subunit C
+304547at4751	Missing
+304733at4751	Complete	NODE_126_length_10354_cov_770.402204	7082	7912	+	52.7	185	https://www.orthodb.org/v10?query=304733at4751	Vesicular-fusion protein sec17
+305061at4751	Missing
+306594at4751	Missing
+307144at4751	Fragmented	NODE_14_length_51621_cov_451.283452	45372	46049	+	59.3	141	https://www.orthodb.org/v10?query=307144at4751	Rab-GTPase-TBC domain
+308236at4751	Fragmented	NODE_58_length_24198_cov_226.857214	22012	23127	-	104.3	220	https://www.orthodb.org/v10?query=308236at4751	Sda1
+308816at4751	Missing
+310718at4751	Fragmented	NODE_202_length_6089_cov_521.512187	410	2134	+	97.3	402	https://www.orthodb.org/v10?query=310718at4751	Exocyst complex component Sec6
+310891at4751	Missing
+311048at4751	Complete	NODE_19_length_50161_cov_285.756182	34623	35486	+	91.5	177	https://www.orthodb.org/v10?query=311048at4751	Deoxyhypusine hydroxylase
+311254at4751	Missing
+312080at4751	Missing
+312209at4751	Missing
+312950at4751	Missing
+315551at4751	Missing
+315639at4751	Complete	NODE_51_length_27790_cov_139.879058	3212	4306	-	207.5	194	https://www.orthodb.org/v10?query=315639at4751	Rhodanese-like domain
+315799at4751	Missing
+315802at4751	Missing
+316254at4751	Complete	NODE_89_length_14484_cov_127.069100	2565	3650	+	145.1	218	https://www.orthodb.org/v10?query=316254at4751	glycosyltransferase family 50 protein
+316920at4751	Missing
+317276at4751	Missing
+317335at4751	Missing
+319121at4751	Missing
+320163at4751	Missing
+320638at4751	Complete	NODE_67_length_20611_cov_389.842531	14975	16342	+	341.2	462	https://www.orthodb.org/v10?query=320638at4751	Nucleotide-diphospho-sugar transferase
+320777at4751	Missing
+320782at4751	Missing
+321416at4751	Missing
+321585at4751	Complete	NODE_5_length_64654_cov_216.929440	12696	13583	+	226.2	246	https://www.orthodb.org/v10?query=321585at4751	U3 small nucleolar ribonucleoprotein IMP4
+321728at4751	Missing
+322254at4751	Missing
+322267at4751	Missing
+323327at4751	Complete	NODE_58_length_24198_cov_226.857214	5771	6631	-	109.4	214	https://www.orthodb.org/v10?query=323327at4751	Translation initiation factor eIF-2B subunit alpha
+324442at4751	Missing
+325992at4751	Missing
+326512at4751	Missing
+326649at4751	Complete	NODE_86_length_14984_cov_962.025395	10365	11846	+	319.3	412	https://www.orthodb.org/v10?query=326649at4751	Phosphoacetylglucosamine mutase
+327672at4751	Fragmented	NODE_15_length_50996_cov_134.324459	16002	16307	-	99.5	94	https://www.orthodb.org/v10?query=327672at4751	CDK-activating kinase assembly factor MAT1
+327748at4751	Missing
+327884at4751	Missing
+329067at4751	Missing
+330533at4751	Missing
+330551at4751	Missing
+330629at4751	Missing
+330815at4751	Complete	NODE_47_length_29666_cov_118.264450	3675	4595	+	206.0	228	https://www.orthodb.org/v10?query=330815at4751	Translation initiation factor 2, alpha subunit
+330949at4751	Missing
+331022at4751	Missing
+331763at4751	Complete	NODE_34_length_35553_cov_115.489705	22483	23244	+	332.0	200	https://www.orthodb.org/v10?query=331763at4751	Ribosomal protein S5
+332006at4751	Missing
+332036at4751	Missing
+332416at4751	Missing
+332876at4751	Fragmented	NODE_40_length_31876_cov_573.147371	20789	21925	+	186.4	316	https://www.orthodb.org/v10?query=332876at4751	WD40/YVTN repeat-like-containing domain superfamily
+332891at4751	Missing
+334424at4751	Complete	NODE_36_length_34680_cov_515.718371	28777	29667	+	215.9	166	https://www.orthodb.org/v10?query=334424at4751	rRNA adenine N(6)-methyltransferase
+335237at4751	Missing
+335719at4751	Missing
+336181at4751	Missing
+336187at4751	Missing
+337150at4751	Missing
+337917at4751	Missing
+338301at4751	Missing
+338808at4751	Complete	NODE_7_length_63559_cov_185.536464	42558	43334	+	137.5	211	https://www.orthodb.org/v10?query=338808at4751	Golgi phosphoprotein 3-like
+339525at4751	Missing
+342642at4751	Missing
+343196at4751	Missing
+343603at4751	Missing
+343623at4751	Missing
+343717at4751	Missing
+344553at4751	Missing
+345661at4751	Missing
+348020at4751	Missing
+348111at4751	Missing
+349264at4751	Missing
+350840at4751	Missing
+351351at4751	Missing
+351482at4751	Missing
+351646at4751	Missing
+351651at4751	Missing
+351849at4751	Missing
+351858at4751	Complete	NODE_28_length_41621_cov_420.255431	2459	3190	-	289.0	185	https://www.orthodb.org/v10?query=351858at4751	Eukaryotic translation initiation factor 6
+351906at4751	Missing
+352224at4751	Missing
+352999at4751	Missing
+353685at4751	Missing
+353762at4751	Missing
+353991at4751	Fragmented	NODE_6_length_63702_cov_622.637245	32719	34050	-	200.2	246	https://www.orthodb.org/v10?query=353991at4751	DnaJ domain
+354679at4751	Complete	NODE_40_length_31876_cov_573.147371	3717	4457	-	222.0	222	https://www.orthodb.org/v10?query=354679at4751	Cell differentiation protein rcd1
+354739at4751	Missing
+354778at4751	Missing
+354913at4751	Missing
+355454at4751	Missing
+355525at4751	Complete	NODE_62_length_21344_cov_583.563427	319	1320	-	228.9	279	https://www.orthodb.org/v10?query=355525at4751	Leucine-rich repeat
+355781at4751	Complete	NODE_37_length_34291_cov_387.784950	4582	5349	+	106.9	141	https://www.orthodb.org/v10?query=355781at4751	GTP cyclohydrolase 1 type 2/Nif3
+356079at4751	Missing
+356691at4751	Complete	NODE_8_length_59507_cov_176.718843	3728	5203	+	212.2	295	https://www.orthodb.org/v10?query=356691at4751	Peroxisome biogenesis factor 1
+356743at4751	Duplicated	NODE_16_length_50840_cov_319.545358	40560	41216	-	257.2	174	https://www.orthodb.org/v10?query=356743at4751	Ribosomal protein
+356743at4751	Duplicated	NODE_89_length_14484_cov_127.069100	12054	12710	-	231.7	170	https://www.orthodb.org/v10?query=356743at4751	Ribosomal protein
+357182at4751	Complete	NODE_868_length_1507_cov_824.330256	218	1402	-	194.4	285	https://www.orthodb.org/v10?query=357182at4751	DNA primase large subunit
+357584at4751	Complete	NODE_38_length_33184_cov_584.628563	18504	19439	-	148.6	172	https://www.orthodb.org/v10?query=357584at4751	Metal-dependent protein hydrolase
+358012at4751	Missing
+358118at4751	Missing
+359271at4751	Missing
+359482at4751	Complete	NODE_22_length_46351_cov_443.542722	43870	44523	+	75.8	119	https://www.orthodb.org/v10?query=359482at4751	vesicle transporter SEC22
+359627at4751	Complete	NODE_43_length_30169_cov_333.398204	16523	16990	-	87.7	135	https://www.orthodb.org/v10?query=359627at4751	Trafficking protein particle complex subunit
+360800at4751	Complete	NODE_69_length_19821_cov_658.431650	12576	13472	+	39.2	107	https://www.orthodb.org/v10?query=360800at4751	plus-3-domain-containing protein
+361877at4751	Missing
+362218at4751	Missing
+362250at4751	Missing
+362322at4751	Missing
+362601at4751	Fragmented	NODE_6_length_63702_cov_622.637245	19690	20718	-	113.8	250	https://www.orthodb.org/v10?query=362601at4751	Oxoglutarate/iron-dependent dioxygenase
+363593at4751	Missing
+364123at4751	Fragmented	NODE_48_length_29450_cov_75.726244	21503	22213	-	121.0	155	https://www.orthodb.org/v10?query=364123at4751	26S Proteasome non-ATPase regulatory subunit 6
+364284at4751	Missing
+365270at4751	Missing
+366595at4751	Complete	NODE_56_length_24640_cov_113.623120	11122	11814	-	143.7	159	https://www.orthodb.org/v10?query=366595at4751	Dolichol-phosphate mannosyltransferase
+366597at4751	Missing
+366635at4751	Missing
+367778at4751	Missing
+368706at4751	Complete	NODE_515_length_2286_cov_622.461820	1365	2027	-	187.3	164	https://www.orthodb.org/v10?query=368706at4751	Proteasome subunit beta
+369435at4751	Missing
+370505at4751	Missing
+370952at4751	Complete	NODE_117_length_11051_cov_416.119248	1521	2150	-	263.7	178	https://www.orthodb.org/v10?query=370952at4751	Ribosomal protein S3
+371481at4751	Complete	NODE_39_length_32326_cov_779.583920	3568	4182	+	103.4	164	https://www.orthodb.org/v10?query=371481at4751	Ribosome maturation protein SBDS, N-terminal
+371674at4751	Missing
+371862at4751	Missing
+372381at4751	Missing
+372510at4751	Missing
+372972at4751	Complete	NODE_20_length_48997_cov_104.822856	37628	38302	+	121.7	95	https://www.orthodb.org/v10?query=372972at4751	tRNA (guanine-N(7)-)-methyltransferase
+374350at4751	Missing
+374548at4751	Missing
+376255at4751	Missing
+376442at4751	Missing
+376539at4751	Missing
+376586at4751	Fragmented	NODE_3_length_72187_cov_129.046943	12042	12845	+	122.2	111	https://www.orthodb.org/v10?query=376586at4751	Deoxycytidylate deaminase
+377787at4751	Missing
+378256at4751	Missing
+378281at4751	Missing
+378295at4751	Missing
+378376at4751	Missing
+378430at4751	Complete	NODE_22_length_46351_cov_443.542722	38581	39429	-	287.5	224	https://www.orthodb.org/v10?query=378430at4751	Serine/threonine-protein kinase RIO1
+378436at4751	Missing
+379525at4751	Missing
+382001at4751	Complete	NODE_29_length_41366_cov_529.428963	9797	10552	-	85.6	203	https://www.orthodb.org/v10?query=382001at4751	syntaxin 5
+383007at4751	Missing
+384156at4751	Missing
+384315at4751	Complete	NODE_18_length_50364_cov_517.589918	6580	7203	-	175.0	144	https://www.orthodb.org/v10?query=384315at4751	Proteasome subunit beta type
+385139at4751	Complete	NODE_25_length_42890_cov_122.114759	4000	4623	-	202.6	175	https://www.orthodb.org/v10?query=385139at4751	Proteasome subunit beta type
+385343at4751	Missing
+385564at4751	Missing
+385971at4751	Fragmented	NODE_59_length_23316_cov_447.398501	21781	22497	+	33.4	82	https://www.orthodb.org/v10?query=385971at4751	Ribonuclease
+386220at4751	Missing
+386245at4751	Complete	NODE_40_length_31876_cov_573.147371	2656	3312	-	57.0	180	https://www.orthodb.org/v10?query=386245at4751	Origin recognition complex subunit 2
+387347at4751	Missing
+387759at4751	Missing
+388229at4751	Complete	NODE_44_length_30036_cov_93.895648	22696	23316	-	135.8	144	https://www.orthodb.org/v10?query=388229at4751	RNA polymerase, Rpb5, N-terminal
+389034at4751	Complete	NODE_36_length_34680_cov_515.718371	750	1577	+	294.3	180	https://www.orthodb.org/v10?query=389034at4751	rRNA 2'-O-methyltransferase fibrillarin
+389547at4751	Missing
+389565at4751	Missing
+390518at4751	Missing
+391384at4751	Fragmented	NODE_11_length_56485_cov_125.394672	36280	36900	-	124.7	141	https://www.orthodb.org/v10?query=391384at4751	Exosome complex component RRP4
+392558at4751	Missing
+393440at4751	Complete	NODE_123_length_10493_cov_689.425342	2406	3053	+	61.3	99	https://www.orthodb.org/v10?query=393440at4751	K Homology domain, type 1
+393996at4751	Missing
+396097at4751	Missing
+396330at4751	Complete	NODE_8_length_59507_cov_176.718843	20591	21187	-	141.0	149	https://www.orthodb.org/v10?query=396330at4751	UPF0016-domain-containing protein
+396842at4751	Complete	NODE_99_length_13475_cov_1143.038352	2302	3105	-	228.9	207	https://www.orthodb.org/v10?query=396842at4751	18S rRNA (Guanine(1575)-N(7))-methyltransferase
+397465at4751	Missing
+398519at4751	Complete	NODE_2_length_73722_cov_356.948562	30380	31090	-	91.6	131	https://www.orthodb.org/v10?query=398519at4751	chromatin associated protein KTI12
+398592at4751	Fragmented	NODE_32_length_40070_cov_101.857021	1286	2344	-	176.7	295	https://www.orthodb.org/v10?query=398592at4751	NUC153
+398882at4751	Complete	NODE_6_length_63702_cov_622.637245	43658	44164	+	185.7	123	https://www.orthodb.org/v10?query=398882at4751	Ubiquitin-conjugating enzyme E2 8
+398968at4751	Complete	NODE_20_length_48997_cov_104.822856	43817	44317	-	50.9	72	https://www.orthodb.org/v10?query=398968at4751	Trafficking protein particle complex subunit BET3
+399376at4751	Complete	NODE_111_length_11917_cov_692.691488	4272	4907	+	61.6	112	https://www.orthodb.org/v10?query=399376at4751	Ribosome biogenesis protein BRX1
+399413at4751	Missing
+399810at4751	Missing
+401387at4751	Missing
+402005at4751	Complete	NODE_55_length_24848_cov_472.116126	17063	17533	-	97.4	98	https://www.orthodb.org/v10?query=402005at4751	Protein RER1
+402255at4751	Missing
+403079at4751	Complete	NODE_210_length_5675_cov_1622.147776	607	1299	+	135.8	194	https://www.orthodb.org/v10?query=403079at4751	Vacuolar ATP synthase subunit D
+404050at4751	Missing
+405669at4751	Complete	NODE_68_length_20017_cov_151.581484	15643	16524	+	152.6	230	https://www.orthodb.org/v10?query=405669at4751	Leucine-rich repeat
+405898at4751	Missing
+406240at4751	Complete	NODE_8_length_59507_cov_176.718843	33500	34009	-	106.4	118	https://www.orthodb.org/v10?query=406240at4751	RNA polymerase Rpb7-like, N-terminal domain superfamily
+406403at4751	Missing
+406434at4751	Complete	NODE_133_length_9879_cov_335.056544	1545	2177	-	62.5	109	https://www.orthodb.org/v10?query=406434at4751	EB1, C-terminal
+406793at4751	Complete	NODE_40_length_31876_cov_573.147371	8424	8882	+	117.6	58	https://www.orthodb.org/v10?query=406793at4751	40S ribosomal protein S11
+407348at4751	Missing
+408391at4751	Complete	NODE_326_length_3504_cov_1239.950073	2161	2562	+	37.5	120	https://www.orthodb.org/v10?query=408391at4751	Translocation protein sec66
+408419at4751	Missing
+409761at4751	Missing
+410458at4751	Complete	NODE_210_length_5675_cov_1622.147776	5072	5614	+	121.7	139	https://www.orthodb.org/v10?query=410458at4751	RNA-binding S4 domain
+410782at4751	Missing
+410986at4751	Complete	NODE_3121_length_578_cov_324.417537	21	551	+	197.9	151	https://www.orthodb.org/v10?query=410986at4751	PIN domain
+410991at4751	Complete	NODE_32_length_40070_cov_101.857021	17766	18269	-	87.9	100	https://www.orthodb.org/v10?query=410991at4751	Translationally controlled tumour protein
+411130at4751	Complete	NODE_44_length_30036_cov_93.895648	18380	18865	+	113.0	141	https://www.orthodb.org/v10?query=411130at4751	Snf7 family
+411471at4751	Missing
+411518at4751	Missing
+411677at4751	Missing
+411754at4751	Missing
+411919at4751	Missing
+412006at4751	Complete	NODE_73_length_17842_cov_579.955306	4832	5371	+	139.5	149	https://www.orthodb.org/v10?query=412006at4751	60S ribosome subunit biogenesis protein NIP7
+413850at4751	Missing
+414474at4751	Missing
+414508at4751	Missing
+416039at4751	Missing
+416914at4751	Missing
+417109at4751	Missing
+417470at4751	Missing
+417746at4751	Complete	NODE_5_length_64654_cov_216.929440	23053	23889	-	171.5	230	https://www.orthodb.org/v10?query=417746at4751	Zinc finger, CCCH-type
+418242at4751	Missing
+418644at4751	Missing
+418680at4751	Missing
+419048at4751	Complete	NODE_67_length_20611_cov_389.842531	7708	8298	+	94.0	103	https://www.orthodb.org/v10?query=419048at4751	Synaptobrevin
+419200at4751	Missing
+419232at4751	Missing
+419667at4751	Complete	NODE_26_length_42678_cov_108.612837	16808	17233	-	69.9	109	https://www.orthodb.org/v10?query=419667at4751	Peptidyl-prolyl cis-trans isomerase
+419868at4751	Duplicated	NODE_23_length_45054_cov_95.755556	1310	1765	+	115.4	120	https://www.orthodb.org/v10?query=419868at4751	Ribosomal protein S13/S15, N-terminal
+419868at4751	Duplicated	NODE_51_length_27790_cov_139.879058	1	357	+	100.4	100	https://www.orthodb.org/v10?query=419868at4751	Ribosomal protein S13/S15, N-terminal
+420414at4751	Missing
+420527at4751	Complete	NODE_6_length_63702_cov_622.637245	14212	14793	+	44.5	134	https://www.orthodb.org/v10?query=420527at4751	SEP domain
+421097at4751	Missing
+421687at4751	Missing
+422151at4751	Missing
+422622at4751	Fragmented	NODE_69_length_19821_cov_658.431650	922	1176	-	35.0	77	https://www.orthodb.org/v10?query=422622at4751	prefoldin, alpha subunit
+422764at4751	Missing
+423166at4751	Duplicated	NODE_6_length_63702_cov_622.637245	59863	60282	+	122.4	75	https://www.orthodb.org/v10?query=423166at4751	Ribosomal protein L14P
+423166at4751	Duplicated	NODE_56_length_24640_cov_113.623120	20337	20756	+	122.4	75	https://www.orthodb.org/v10?query=423166at4751	Ribosomal protein L14P
+423206at4751	Complete	NODE_62_length_21344_cov_583.563427	12212	12607	+	55.6	53	https://www.orthodb.org/v10?query=423206at4751	Nuclear cap-binding protein subunit 2
+427250at4751	Missing
+428342at4751	Missing
+428569at4751	Missing
+428774at4751	Missing
+428984at4751	Fragmented	NODE_30_length_40787_cov_140.663070	33729	34754	+	197.8	217	https://www.orthodb.org/v10?query=428984at4751	BRCT domain
+429332at4751	Missing
+429862at4751	Missing
+430556at4751	Missing
+431195at4751	Missing
+431607at4751	Complete	NODE_41_length_30710_cov_1162.695208	3188	3706	-	49.7	117	https://www.orthodb.org/v10?query=431607at4751	Translation machinery-associated protein 20
+432952at4751	Missing
+433181at4751	Missing
+433384at4751	Complete	NODE_11_length_56485_cov_125.394672	49527	49901	+	28.4	72	https://www.orthodb.org/v10?query=433384at4751	Ran-interacting Mog1 protein
+434428at4751	Complete	NODE_7_length_63559_cov_185.536464	37565	38041	-	105.5	133	https://www.orthodb.org/v10?query=434428at4751	Actin-related protein 2/3 complex subunit 4
+434500at4751	Missing
+434984at4751	Missing
+435317at4751	Missing
+435471at4751	Missing
+435767at4751	Fragmented	NODE_128_length_10183_cov_1052.030048	9122	9589	+	150.1	146	https://www.orthodb.org/v10?query=435767at4751	Ribosomal RNA small subunit methyltransferase NEP1
+436872at4751	Missing
+437914at4751	Missing
+438274at4751	Complete	NODE_485_length_2401_cov_1175.904865	1231	1878	-	119.5	168	https://www.orthodb.org/v10?query=438274at4751	ERF1 methyltransferase catalytic subunit MTQ2
+438731at4751	Missing
+438861at4751	Missing
+439490at4751	Missing
+440401at4751	Missing
+441586at4751	Missing
+443595at4751	Missing
+444174at4751	Missing
+444399at4751	Missing
+444602at4751	Missing
+444892at4751	Missing
+445210at4751	Complete	NODE_64_length_21138_cov_969.130995	13059	13550	+	39.1	21	https://www.orthodb.org/v10?query=445210at4751	Transcription factor IIA, alpha/beta subunit
+445401at4751	Missing
+445954at4751	Complete	NODE_63_length_21233_cov_1062.720606	19917	20177	-	89.3	56	https://www.orthodb.org/v10?query=445954at4751	DNA-directed RNA polymerase, 14-18kDa subunit, conserved site
+446124at4751	Missing
+447112at4751	Missing
+447424at4751	Complete	NODE_41_length_30710_cov_1162.695208	5927	6610	-	146.8	198	https://www.orthodb.org/v10?query=447424at4751	Yif1 family
+449717at4751	Complete	NODE_1_length_74237_cov_130.044552	66495	67010	-	174.0	177	https://www.orthodb.org/v10?query=449717at4751	Protein YIP
+449803at4751	Missing
+451032at4751	Complete	NODE_35_length_34939_cov_691.962887	15095	15556	-	103.4	105	https://www.orthodb.org/v10?query=451032at4751	MIP18 family-like
+451701at4751	Missing
+451811at4751	Missing
+451849at4751	Missing
+452573at4751	Complete	NODE_68_length_20017_cov_151.581484	17965	18339	+	80.9	84	https://www.orthodb.org/v10?query=452573at4751	histone-fold-containing protein
+452692at4751	Missing
+452759at4751	Complete	NODE_75_length_17481_cov_448.773789	3151	3534	-	94.9	83	https://www.orthodb.org/v10?query=452759at4751	Translation initiation factor 1A (eIF-1A)
+452947at4751	Missing
+453693at4751	Fragmented	NODE_2_length_73722_cov_356.948562	69428	69712	+	89.0	88	https://www.orthodb.org/v10?query=453693at4751	Ribosomal protein L23/L15e core domain superfamily
+453909at4751	Missing
+454746at4751	Missing
+454840at4751	Missing
+455110at4751	Complete	NODE_34_length_35553_cov_115.489705	24618	25040	+	74.8	62	https://www.orthodb.org/v10?query=455110at4751	Iron-sulfur cluster assembly protein
+456963at4751	Fragmented	NODE_39_length_32326_cov_779.583920	27590	27826	-	23.4	52	https://www.orthodb.org/v10?query=456963at4751	Multiprotein-bridging factor 1
+457161at4751	Missing
+457544at4751	Fragmented	NODE_4_length_64863_cov_111.523547	38682	39281	+	81.4	120	https://www.orthodb.org/v10?query=457544at4751	V-type ATPase subunit E
+457951at4751	Missing
+458554at4751	Missing
+458980at4751	Missing
+459844at4751	Missing
+461238at4751	Complete	NODE_26_length_42678_cov_108.612837	5357	5593	-	54.5	64	https://www.orthodb.org/v10?query=461238at4751	Transcription elongation factor SPT4
+461919at4751	Missing
+464711at4751	Missing
+464772at4751	Missing
+464897at4751	Complete	NODE_69_length_19821_cov_658.431650	9802	10206	+	48.3	71	https://www.orthodb.org/v10?query=464897at4751	RNA polymerase
+465849at4751	Missing
+467311at4751	Missing
+467847at4751	Missing
+467959at4751	Missing
+468195at4751	Complete	NODE_133_length_9879_cov_335.056544	2384	2905	-	33.1	53	https://www.orthodb.org/v10?query=468195at4751	Signal peptidase subunit 3
+468224at4751	Missing
+468408at4751	Missing
+469452at4751	Complete	NODE_43_length_30169_cov_333.398204	1158	1571	+	87.6	99	https://www.orthodb.org/v10?query=469452at4751	Ribosomal protein S5 domain 2-type fold
+470813at4751	Complete	NODE_195_length_6393_cov_738.339530	5767	6231	-	189.2	138	https://www.orthodb.org/v10?query=470813at4751	SUMO-conjugating enzyme ubc9
+471205at4751	Missing
+473814at4751	Missing
+474125at4751	Missing
+474320at4751	Missing
+474374at4751	Fragmented	NODE_50_length_28044_cov_141.165647	18390	18713	-	65.9	58	https://www.orthodb.org/v10?query=474374at4751	Ribosomal protein S10
+477057at4751	Missing
+477122at4751	Missing
+481052at4751	Missing
+482337at4751	Missing
+483049at4751	Missing
+483370at4751	Missing
+483390at4751	Complete	NODE_16_length_50840_cov_319.545358	43720	44016	-	50.3	85	https://www.orthodb.org/v10?query=483390at4751	V-type proton ATPase subunit F
+484080at4751	Missing
+484323at4751	Missing
+484805at4751	Missing
+485650at4751	Missing
+485702at4751	Complete	NODE_67_length_20611_cov_389.842531	18202	18735	+	112.5	139	https://www.orthodb.org/v10?query=485702at4751	translocation protein
+488348at4751	Missing
+488426at4751	Missing
+488857at4751	Missing
+490662at4751	Missing
+490719at4751	Missing
+492591at4751	Missing
+493358at4751	Complete	NODE_246_length_4832_cov_1301.672090	4327	4632	+	85.6	73	https://www.orthodb.org/v10?query=493358at4751	40S ribosomal protein S26
+494427at4751	Missing
+497024at4751	Missing
