@@ -12,12 +12,14 @@ def ortho_unweight_reader(file, threshold):
         Каждое значение гена заменяет бинарно на наличие/отсутствие и фильтрует по заданному порогу
         threshold, обозначащем количество ортологов в семействе генов"""
 
-    ortho_df = pd.read_csv(file, sep='\t').iloc[:, 3:19]
+    ortho_df = pd.read_csv(file, sep='\t').iloc[:, 3:]
+
     ortho_df = ortho_df.map(lambda x: 0 if x == '*' else 1)
     ortho_df['zero_count'] = (ortho_df == 0).sum(axis=1)
+    columns_num = len(ortho_df.columns)
 
-    # Оставляем только строки, в которых количество нулей >= threshold
-    filtered_df = ortho_df[ortho_df['zero_count'] <= threshold].drop(columns=['zero_count'])  # Удалим столбец с количеством нулей
+    # Оставляем только строки, в которых количество нулей <= threshold
+    filtered_df = ortho_df[ortho_df['zero_count'] <= (columns_num - threshold)].drop(columns=['zero_count'])  # Удалим столбец с количеством нулей
 
     return filtered_df
 
@@ -27,13 +29,13 @@ def ortho_weight_reader(file, threshold):
         Каждое значение гена заменяет количеством паралогов и фильтрует по заданному порогу
         threshold, обозначащем количество ортологов в семействе генов"""
 
-    ortho_df = pd.read_csv(file, sep='\t').iloc[:, 3:19]
-
+    ortho_df = pd.read_csv(file, sep='\t').iloc[:, 3:]
     ortho_df = ortho_df.map(lambda x: 0 if x == '*' else len(x.split(',')))
     ortho_df['zero_count'] = (ortho_df == 0).sum(axis=1)
+    columns_num = len(ortho_df.columns)
 
     # Оставляем только строки, в которых количество нулей >= пороговому значению
-    filtered_df = ortho_df[ortho_df['zero_count'] <= threshold].drop(columns=['zero_count'])  # Удалим столбец с количеством нулей
+    filtered_df = ortho_df[ortho_df['zero_count'] <= (columns_num - threshold)].drop(columns=['zero_count'])  # Удалим столбец с количеством нулей
 
     return filtered_df
 
